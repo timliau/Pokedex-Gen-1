@@ -1,1 +1,1 @@
-# cs50-Pokdex
+# Pokdex Gen 1
